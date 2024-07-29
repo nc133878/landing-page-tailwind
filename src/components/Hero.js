@@ -25,7 +25,7 @@ function Hero() {
                 <p className='font-light  leading-relaxed text-indigo-200'>Tailwind is the fastest growing utility-first CSS framework. Let's learn it step by step.</p>
 
                 <div className='relative flex'>
-                    <a href="#" className=' block w-32 mt-4 mb-6 font-semibold rounded-full bg-pink-400 px-3 py-2'>ENROLL NOW</a>
+                    <a href="https://tailwindcss.com/docs/installation" className=' block w-32 mt-4 mb-6 font-semibold rounded-full bg-pink-400 px-3 py-2'>ENROLL NOW</a>
                     <Tailwind />
                 </div>
             </div>
